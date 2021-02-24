@@ -21,7 +21,6 @@ jobs:
       run: |
         git config --global user.email "songhungbk@gmail.com"
         git config --global user.name "CodeXSky"
-        git pull
         git add .
         git commit -m "Updated README.md" || echo "No changes to commit"
         git push
@@ -33,4 +32,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCN03cDDMfrD6Iyxk20_dvmQ"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCTXLBZDx5FY4fc-GM4SARTA"
