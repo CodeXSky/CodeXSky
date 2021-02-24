@@ -1,0 +1,35 @@
+name: quote_generator
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: 12.16.1
+    - run: npm ci
+    - name: Generate quote
+      run: npm run generate
+    - name: Update README.md
+      run: |
+        git config --global user.email "songhungbk@gmail.com"
+        git config --global user.name "codeonthesky"
+        git add .
+        git commit -m "Updated README.md" || echo "No changes to commit"
+        git push
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from Youtube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCN03cDDMfrD6Iyxk20_dvmQ"
