@@ -1,6 +1,6 @@
-_**You can't succeed coming to the potluck with only a fork.**_
+_**Failure is the condiment that gives success its flavor.**_
 
-Dave Liniger
+Truman Capote
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
