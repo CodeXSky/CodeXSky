@@ -1,6 +1,6 @@
-_**Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!**_
+_**The beginning of freedom is the realization that you are not the possessing entity the thinker.**_
 
-Daireth Winehouse
+Eckhart Tolle
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
