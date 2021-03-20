@@ -1,6 +1,6 @@
-_**There is nothing noble about being superior to some other man. The true nobility is in being superior to your previous self.**_
+_**An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.**_
 
-Hindu Proverb
+Lorii Myers
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
