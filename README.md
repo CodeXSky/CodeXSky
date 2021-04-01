@@ -1,6 +1,6 @@
-_**The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.**_
+_**Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.**_
 
-Charles Bukowski
+Isaac Lidsky
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
