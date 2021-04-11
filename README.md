@@ -1,6 +1,6 @@
-_**Winning is not everything, but the effort to win is.**_
+_**You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).**_
 
-Zig Ziglar
+Edmund Hillary
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
