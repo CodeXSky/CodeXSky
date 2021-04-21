@@ -1,6 +1,6 @@
-_**An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.**_
+_**If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.**_
 
-Lorii Myers
+Barack Obama
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
