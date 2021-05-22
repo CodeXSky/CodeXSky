@@ -1,6 +1,6 @@
-_**Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.**_
+_**A man can suffer to bring a group of people to success, not the other way.**_
 
-Napoleon Bonaparte
+Ganesh
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
