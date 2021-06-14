@@ -1,6 +1,6 @@
-_**You must be the change you want to see in the world..**_
+_**Do the best you can until you know better. Then when you know better, do better.**_
 
-M.K. Gandhi
+Maya Angelou
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
