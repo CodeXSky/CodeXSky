@@ -1,6 +1,6 @@
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.**_
 
-Brene Brown
+Tom Hanks
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
