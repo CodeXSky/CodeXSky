@@ -1,6 +1,6 @@
-_**It is easy to sit up and take notice, What is difficult is getting up and taking action.**_
+_**The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.**_
 
-Honore de Balzac
+Charles Bukowski
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
