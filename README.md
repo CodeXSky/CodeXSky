@@ -1,6 +1,6 @@
-_**When you win, say nothing. When you lose, say less.**_
+_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
 
-Paul Brown
+Brene Brown
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
