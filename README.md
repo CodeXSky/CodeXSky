@@ -1,6 +1,6 @@
-_**If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.**_
+_**When there is no distraction, there is clarity.**_
 
-Steve Maraboli
+Lorii Myers
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
