@@ -1,6 +1,6 @@
-_**Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.**_
+_**Your life does not get better by chance. It gets better by change.**_
 
-Greg Child
+Jim Rohn
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
