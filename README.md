@@ -1,6 +1,6 @@
-_**If you don't have confidence, you'll always find a way not to win**_
+_**If you want to test your memory, try to recall what you were worrying about one year ago today.**_
 
-Carl Lewis
+E. Joseph Cossman
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
