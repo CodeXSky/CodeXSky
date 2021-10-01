@@ -1,6 +1,6 @@
-_**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
+_**I keep asking myself these three questions.. What do you have? What do you want? What will you give up?**_
 
-Larry Page
+Jack Ma
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
