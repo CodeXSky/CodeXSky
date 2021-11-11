@@ -1,6 +1,6 @@
-_**Predicting Rain Doesn't Count. Building Arks Does.**_
+_**If you're not making mistakes, you're not taking risks, and that means you're not going anywhere. The key is to make mistakes faster than the competition, so you have more changes to learn and win.**_
 
-Warren Buffett
+John W. Holt, Jr.
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
