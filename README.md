@@ -1,6 +1,6 @@
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**Stress is like a pulse, if you have it you are alive.**_
 
-Arnold Horshak
+Steve Maraboli
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
