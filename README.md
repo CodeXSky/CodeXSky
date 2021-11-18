@@ -1,6 +1,6 @@
-_**If you want to test your memory, try to recall what you were worrying about one year ago today.**_
+_**What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!**_
 
-E. Joseph Cossman
+Larry Page
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
