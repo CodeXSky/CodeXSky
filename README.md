@@ -1,6 +1,6 @@
-_**Perfection is not attainable, but if we chase perfection we can catch excellence..**_
+_**People who are crazy enough to think they can change the world, are the ones who do.**_
 
-Vince Lombardi
+Apple Computers
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
