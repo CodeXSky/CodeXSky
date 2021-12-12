@@ -1,6 +1,6 @@
-_**A show of confidence raises the bar**_
+_**If you don't have confidence, you'll always find a way not to win**_
 
-Lorii Myers
+Carl Lewis
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
