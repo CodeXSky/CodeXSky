@@ -1,6 +1,6 @@
-_**He who is not courageous enough to take risks will accomplish nothing in life.**_
+_**Extend beyond your preconceived limits!**_
 
-Mohamad Ali
+Lorii Myers
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
