@@ -1,6 +1,6 @@
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**If you have dreams it is your responsibility to make them happen.**_
 
-Arnold Horshak
+Bel Pesce
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
