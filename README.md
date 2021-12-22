@@ -1,6 +1,6 @@
-_**If you have dreams it is your responsibility to make them happen.**_
+_**The journey of a thousand miles begins with one step.**_
 
-Bel Pesce
+Lao Tzu
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
