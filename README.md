@@ -1,6 +1,6 @@
-_**If you can consciously let yourself get taken and see where you go, that's an exercise. That's discipline. To follow the scent. Let yourself go and see what happens, that takes a bit of courage.**_
+_**Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.**_
 
-Bill Murray
+Greg Child
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
