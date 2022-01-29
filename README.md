@@ -1,6 +1,6 @@
-_**Some men see things as they are and say why.. I dream things that never were and say why not.**_
+_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
 
-George Bernard Shaw
+Lorii Myers
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
