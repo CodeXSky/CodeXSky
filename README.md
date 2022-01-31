@@ -1,6 +1,6 @@
-_**When you win, say nothing. When you lose, say less.**_
+_**I am an optimist. It does not seem too much use being anything else..**_
 
-Paul Brown
+Winston Churchill
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
