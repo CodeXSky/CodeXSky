@@ -1,6 +1,6 @@
-_**Excellence prospers in the absence of excuses.**_
+_**A quitter never wins and a winner never quits**_
 
-Lorii Myers
+Napoleon Hill
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
