@@ -1,6 +1,6 @@
-_**If you don't have confidence, you'll always find a way not to win**_
+_**People who are crazy enough to think they can change the world, are the ones who do.**_
 
-Carl Lewis
+Apple Computers
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
