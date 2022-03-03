@@ -1,6 +1,6 @@
-_**Don't be tempted to break momentum-work through it.**_
+_**You make a living by what you earn; you make a life by what you give.**_
 
-Lorii Myers
+Winston Churchill
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
