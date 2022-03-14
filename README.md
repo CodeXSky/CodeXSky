@@ -1,6 +1,6 @@
-_**If you cannot do great things, do small things in a great way.**_
+_**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
 
-Napoleon Hill
+Larry Page
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
