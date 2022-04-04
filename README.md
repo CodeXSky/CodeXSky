@@ -1,6 +1,6 @@
-_**Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.**_
+_**If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.**_
 
-Vince Lombardi
+Steve Maraboli
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
