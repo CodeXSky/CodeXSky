@@ -1,6 +1,6 @@
-_**We don't have to do all of it alone. We were never meant to.**_
+_**Winning isn't everything.. It's the only thing.**_
 
-Brene Brown
+Vincent van Gogh
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
