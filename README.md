@@ -1,6 +1,6 @@
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**_
 
-Brene Brown
+Phil Grimshaw
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
