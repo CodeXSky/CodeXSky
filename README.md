@@ -1,6 +1,6 @@
-_**Do not be afraid to give up the good for the great.**_
+_**Those who know how to win are much more numerous than those who know how to make proper use of their victories**_
 
-Kenny Rogers
+Polybius
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
