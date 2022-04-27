@@ -1,6 +1,6 @@
-_**Those who know how to win are much more numerous than those who know how to make proper use of their victories**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Polybius
+Japanese Proverb
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
