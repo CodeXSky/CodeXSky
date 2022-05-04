@@ -1,6 +1,6 @@
-_**It is easy to sit up and take notice, What is difficult is getting up and taking action.**_
+_**You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.**_
 
-Honore de Balzac
+Michelle Obama
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
