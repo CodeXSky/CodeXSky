@@ -1,6 +1,6 @@
-_**The determination to win is the better part of winning.**_
+_**Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.**_
 
-Daisaku Ikeda
+Mark Bezos
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
