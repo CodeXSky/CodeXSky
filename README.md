@@ -1,6 +1,6 @@
-_**Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.**_
+_**Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.**_
 
-Lorii Myers
+William James Moore
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
