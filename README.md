@@ -1,6 +1,6 @@
-_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
+_**What you do speaks so loudly that I cannot hear what you say.**_
 
-Lorii Myers
+Ralph Waldo Emerson
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
