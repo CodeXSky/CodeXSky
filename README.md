@@ -1,6 +1,6 @@
-_**Named must your fear be before banish it you can.**_
+_**When there is no distraction, there is clarity.**_
 
-Yoda
+Lorii Myers
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
