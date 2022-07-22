@@ -1,6 +1,6 @@
-_**A quitter never wins and a winner never quits**_
+_**Sometimes the bravest and most important thing you can do is just show up.**_
 
-Napoleon Hill
+Brene Brown
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
