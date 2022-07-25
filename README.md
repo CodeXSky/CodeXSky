@@ -1,6 +1,6 @@
-_**Don't be tempted to break momentum-work through it.**_
+_**You will never win if you never begin.**_
 
-Lorii Myers
+Helen Rowland
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
