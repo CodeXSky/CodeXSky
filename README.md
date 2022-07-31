@@ -1,6 +1,6 @@
-_**If you have dreams it is your responsibility to make them happen.**_
+_**Where there is ruin, there is hope for a treasure.**_
 
-Bel Pesce
+Rumi
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
