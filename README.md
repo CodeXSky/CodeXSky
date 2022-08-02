@@ -1,6 +1,6 @@
-_**You are very powerful, provided you know how powerful you are.**_
+_**Beyond a certain point there is no return. This point has to be reached.**_
 
-Yogi Bhajan
+Franz Kafka
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
