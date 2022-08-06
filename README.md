@@ -1,6 +1,6 @@
-_**Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Thomas Edison
+Japanese Proverb
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
