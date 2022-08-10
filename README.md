@@ -1,6 +1,6 @@
-_**When you win, say nothing. When you lose, say less.**_
+_**If I work as hard as I can, I wonder how much I can do in a day?**_
 
-Paul Brown
+Ezra Taft Benson
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
