@@ -1,6 +1,6 @@
-_**You must be the change you want to see in the world..**_
+_**You make a living by what you earn; you make a life by what you give.**_
 
-M.K. Gandhi
+Winston Churchill
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
