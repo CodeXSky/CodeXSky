@@ -1,6 +1,6 @@
-_**Do not let what you cannot do interfere with what you can do.**_
+_**Logic will get you from A to B. Imagination will take you everywhere.**_
 
-John Wooden
+Albert Einstein
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
