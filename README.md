@@ -1,6 +1,6 @@
-_**A successful man is one who can lay a firm foundation with the bricks that others throw at him.**_
+_**We lose ourselves in the things we love. We find ourselves there, too.**_
 
-Sidney Greenberg
+Dale Patridge
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
