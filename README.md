@@ -1,6 +1,6 @@
-_**Great things are done by a series of small things brought together.**_
+_**I know for sure that what we dwell on is who we become.**_
 
-Vincent Van Gogh
+Oprah Winfrey
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
