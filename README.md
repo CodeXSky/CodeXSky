@@ -1,6 +1,6 @@
-_**I know for sure that what we dwell on is who we become.**_
+_**There's such a thin line between winning and losing.**_
 
-Oprah Winfrey
+John R. Tunis
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
