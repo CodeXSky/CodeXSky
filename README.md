@@ -1,6 +1,6 @@
-_**Even if you're on the right track, you'll get run over if you just sit there..**_
+_**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**_
 
-Will Rogers
+Phil Grimshaw
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
