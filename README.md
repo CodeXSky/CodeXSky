@@ -1,6 +1,6 @@
-_**What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!**_
+_**If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not.**_
 
-Larry Page
+Elon Musk
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
