@@ -1,6 +1,6 @@
-_**Winning isn't everything.. It's the only thing.**_
+_**A man who has no imagination has no wings.**_
 
-Vincent van Gogh
+Mohamad Ali
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
