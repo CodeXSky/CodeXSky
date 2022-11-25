@@ -1,6 +1,6 @@
-_**Vision without action is daydream. Action without vision is nightmare..**_
+_**What you do speaks so loudly that I cannot hear what you say.**_
 
-Japanese Proverb
+Ralph Waldo Emerson
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
