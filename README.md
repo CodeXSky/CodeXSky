@@ -1,6 +1,6 @@
-_**Once your excuses are gone, you will simply have to settle for being awesome!**_
+_**Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even.**_
 
-Lorii Myers
+Mohamad Ali
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
