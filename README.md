@@ -1,6 +1,6 @@
-_**What's the greater risk? Letting go of what people think or letting go of how I feel, what I believe, and who I am?**_
+_**Your overnight success story is always a result of everything you have done in your life until that moment.**_
 
-Brene Brown
+Bel Pesce
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
