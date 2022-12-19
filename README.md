@@ -1,6 +1,6 @@
-_**Your life does not get better by chance. It gets better by change.**_
+_**Where there is ruin, there is hope for a treasure.**_
 
-Jim Rohn
+Rumi
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
