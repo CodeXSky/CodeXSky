@@ -1,6 +1,6 @@
-_**Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.**_
+_**Whether you think you can or think you can't, you're right..**_
 
-Veronica A. Shoffstall
+Henry Ford
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
