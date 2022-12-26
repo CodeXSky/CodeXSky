@@ -1,6 +1,6 @@
-_**Let our advance worrying become advance thinking and planning.**_
+_**Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.**_
 
-Winston Churchill
+Lorii Myers
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
