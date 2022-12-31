@@ -1,6 +1,6 @@
-_**If I work as hard as I can, I wonder how much I can do in a day?**_
+_**Extend beyond your preconceived limits!**_
 
-Ezra Taft Benson
+Lorii Myers
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
