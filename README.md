@@ -1,6 +1,6 @@
-_**The idea that everyone should slavishly work so they do something inefficiently so they keep their job - that just doesn't make any sense to me. That can't be the right answer.**_
+_**I know for sure that what we dwell on is who we become.**_
 
-Larry Page
+Oprah Winfrey
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
