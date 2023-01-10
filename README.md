@@ -1,6 +1,6 @@
-_**Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.**_
+_**A man who has no imagination has no wings.**_
 
-Matthew Keith Groves
+Mohamad Ali
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
