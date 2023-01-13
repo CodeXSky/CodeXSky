@@ -1,6 +1,6 @@
-_**Winning is nice if you don't lose your integrity in the process.**_
+_**Winning is not everything, but the effort to win is.**_
 
-Arnold Horshak
+Zig Ziglar
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
