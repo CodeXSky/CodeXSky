@@ -1,9 +1,6 @@
-_**One does not accumulate but eliminate.
-It is not daily increase but daily
-decrease. The height of cultivation
-always runs to simplicity.**_
+_**Do not worry if you have built your castles in the air. They are where they should be. Now put the foundations under them.**_
 
-Bruce Lee
+Henry David Thoreau
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
