@@ -1,6 +1,6 @@
-_**If you want to make your dreams come true, the first thing you have to do is wake up.**_
+_**Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.**_
 
-J.M. Power
+Lorii Myers
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
