@@ -1,6 +1,6 @@
-_**Stop complaining. Start creating.**_
+_**If you cannot do great things, do small things in a great way.**_
 
-Dale Patridge
+Napoleon Hill
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
