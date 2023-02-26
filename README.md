@@ -1,6 +1,6 @@
-_**Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!**_
+_**We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light**_
 
-Daireth Winehouse
+Mary Dunbar
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
