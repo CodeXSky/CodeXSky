@@ -1,6 +1,6 @@
-_**We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light**_
+_**The man who has confidence in himself gains the confidence of others.**_
 
-Mary Dunbar
+Hasidic Proverb
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
