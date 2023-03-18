@@ -1,6 +1,6 @@
-_**I am an optimist. It does not seem too much use being anything else..**_
+_**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**_
 
-Winston Churchill
+Phil Grimshaw
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
