@@ -1,6 +1,6 @@
-_**Do not let what you cannot do interfere with what you can do.**_
+_**Do the best you can until you know better. Then when you know better, do better.**_
 
-John Wooden
+Maya Angelou
 
 ### Hi, I'm Song Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXSky][website] = Software Engineer + Youtuber + Create crazy things🌱 
 
